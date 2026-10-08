@@ -1,0 +1,11 @@
+# Direct dependencies of src/*.py, pinned to the versions used for the submission.
+# Tested on Python 3.12 (Linux x86-64); all have wheels for macOS arm64 too.
+anyascii==0.3.3
+lightgbm==4.7.0
+numpy==2.5.3
+polars==1.44.2
+pyarrow==25.0.1
+rapidfuzz==3.14.6
+scipy==1.18.1
+torch==2.14.0
+transformers==5.17.0
